@@ -1,0 +1,4 @@
+name: "Namron AS Zigbee 8 channel switch white"
+packageKey: "namron_zigbee_8_channel_switch_white"
+permissions:
+  zigbee: {}
