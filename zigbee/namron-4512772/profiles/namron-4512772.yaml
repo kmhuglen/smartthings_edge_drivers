@@ -1,34 +1,42 @@
 name: namron-4512772
 components:
-- id: button1
+- id: buttonGroup1On
+  label: "Button Group 1 - On (with LED)"
   capabilities:
   - id: button
     version: 1
-- id: button2
+- id: buttonGroup1Off
+  label: "Button Group 1 - Off"
   capabilities:
   - id: button
     version: 1
-- id: button3
+- id: buttonGroup2On
+  label: "Button Group 2 - On"
   capabilities:
   - id: button
     version: 1
-- id: button4
+- id: buttonGroup2Off
+  label: "Button Group 2 - Off"
   capabilities:
   - id: button
     version: 1
-- id: button5
+- id: buttonGroup3On
+  label: "Button Group 3 - On"
   capabilities:
   - id: button
     version: 1
-- id: button6
+- id: buttonGroup3Off
+  label: "Button Group 3 - Off"
   capabilities:
   - id: button
     version: 1
-- id: button7
+- id: buttonGroup4On
+  label: "Button Group 4 - On"
   capabilities:
   - id: button
     version: 1
-- id: button8
+- id: buttonGroup4Off
+  label: "Button Group 4 - Off"
   capabilities:
   - id: button
     version: 1

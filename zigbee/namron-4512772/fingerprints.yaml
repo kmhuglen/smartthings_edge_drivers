@@ -4,3 +4,8 @@ zigbeeManufacturer:
     manufacturer: "NAMRON AS"
     model: "4512772"
     deviceProfileName: namron-4512772
+  - id: "NAMRON AS/4512773"
+    deviceLabel: "Namron Zigbee 8 Channel Switch Black"
+    manufacturer: "NAMRON AS"
+    model: "4512773"
+    deviceProfileName: namron-4512772
